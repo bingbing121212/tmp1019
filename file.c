@@ -7,8 +7,8 @@ int main()
 
 printf("create new file..\n");
 
-dmlsnv
-
+printf("add..\n");
+printf("add2..\n");
 
 
 return 0;
