@@ -44,3 +44,15 @@
 --|:--:|--:
 英雄联盟|98|9.9
 Apex|97|9.0
+## 插入代码片段
+ #include<stdio.h>
+ #include<stdlib.h>
+ int main()
+ {
+    printf("hello c..\n");
+    exit(0);
+ }
+ ## 插入超链接
+ [bilibili](https://www.bilibill.com"点击进入B站")
+ ## 插入图片
+ ![符号优先级1](C://Users//霍洪冰//Desktop//符号优先级1.png"符号优先级1")
